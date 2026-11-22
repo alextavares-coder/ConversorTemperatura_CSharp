@@ -3,3 +3,13 @@ D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSh
 D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.AssemblyInfo.cs
 D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.csproj.CoreCompileInputs.cache
 D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.sourcelink.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.exe
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.deps.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.runtimeconfig.json
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\bin\Debug\net10.0\ConversorTemperatura.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\refint\ConversorTemperatura.App.dll
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.pdb
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ConversorTemperatura.App.genruntimeconfig.cache
+D:\9 - TESTE DE SISTEMAS\Minha Atividade\Códigos do C#\ConversorTemperatura_CSharp\ConversorTemperatura\ConversorTemperatura.App\obj\Debug\net10.0\ref\ConversorTemperatura.App.dll

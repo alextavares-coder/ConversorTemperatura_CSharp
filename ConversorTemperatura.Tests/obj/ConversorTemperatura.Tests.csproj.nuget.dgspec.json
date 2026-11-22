@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {}
+    "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {}
   },
   "projects": {
     "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.App\\ConversorTemperatura.App.csproj": {
@@ -346,14 +346,14 @@
         }
       }
     },
-    "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {
+    "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+        "projectUniqueName": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
         "projectName": "ConversorTemperatura.Tests",
-        "projectPath": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+        "projectPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
         "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
-        "outputPath": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\obj\\",
+        "outputPath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio Community\\componentes\\NuGetPackages"

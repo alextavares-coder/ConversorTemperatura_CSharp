@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8A4juEzxG0c=",
+  "dgSpecHash": "EONvCcf+Wvg=",
   "success": true,
-  "projectFilePath": "d:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
+  "projectFilePath": "D:\\9 - TESTE DE SISTEMAS\\Minha Atividade\\Códigos do C#\\ConversorTemperatura_CSharp\\ConversorTemperatura\\ConversorTemperatura.Tests\\ConversorTemperatura.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexc\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\alexc\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
